@@ -1,0 +1,16 @@
+{
+  "name": "ai-tools-review",
+  "version": "1.0.0",
+  "description": "AI工具测评博客 - 自动化内容平台",
+  "scripts": {
+    "build": "echo 'Building static site'",
+    "deploy": "echo 'Deploying to GitHub Pages'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ai-tools-review/blog"
+  },
+  "keywords": ["AI", "tools", "review", "automation"],
+  "author": "Agent Company",
+  "license": "MIT"
+}
